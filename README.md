@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **GANESH9124/GANESH9124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
